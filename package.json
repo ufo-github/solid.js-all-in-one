@@ -1,0 +1,29 @@
+{
+  "name": "solid.js-all-in-one",
+  "version": "1.0.0",
+  "description": "solid.js demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solid.js",
+    "demo"
+  ],
+  "author": "xgqfrms",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ufo-github/solid.js-all-in-one.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ufo-github/solid.js-all-in-one/issues"
+  },
+  "homepage": "https://github.com/ufo-github/solid.js-all-in-one#readme",
+  "dependencies": {
+    "solid-js": "^1.4.7"
+  }
+}
