@@ -8,10 +8,12 @@ function Counter() {
   // const doubleCount = count() * 2;
   // 计算属性
   const doubleCount = () => count() * 2;
-  return <>
-    <div>Count: {count()}</div>
-    <div>doubleCount: {doubleCount()}</div>
-  </>;
+  return (
+    <>
+      <div>Count: {count()}</div>
+      <div>doubleCount: {doubleCount()}</div>
+    </>
+  );
   // <div>doubleCount: {doubleCount()}</div>
   // div>doubleCount: {doubleCount}</div>
 }
